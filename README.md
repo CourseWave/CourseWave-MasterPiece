@@ -22,5 +22,5 @@ CourseWave platform is a unique blend of Udemy and Cambly, providing a dynamic l
 
 # Team Members
 
-- [Laith Haitham Al-Majali](https://github.com/laith17/CourseWave)
+- [Laith Haitham Al-Majali](https://github.com/laith17)
 - [Haitham Amin Al-Zyoud](https://github.com/Haitham-Alzyoud)
